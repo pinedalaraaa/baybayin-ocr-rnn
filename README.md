@@ -5,7 +5,8 @@ This project involves drawing four single-stroke Baybayin characters in the air 
 
 ## Demo
 
-[![Watch the video](https://github.com/pinedalaraaa/baybayin-ocr-rnn/blob/main/demo/thumbnail.png?raw=true)](https://youtu.be/h1YKOzNY7EA)
+https://github.com/user-attachments/assets/176b1e38-36ec-4423-b4c7-b48aef6339fb
+
 
 ## Technologies Used
 
