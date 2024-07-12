@@ -4,8 +4,7 @@
 This project involves drawing four single-stroke Baybayin characters in the air (ba, ha, wa, ya), which are captured by a Raspberry Pi's camera and uses the Kanade-Lucas-Tomasi algorithm for tracking the optical flow. The tracked character data is then fed into a Tesseract model trained to recognize these characters from the optical flow. For translation, a Recurrent Neural Network (RNN) model is employed to convert the recognized Baybayin characters into Latin script, which the application then displays as an output.
 
 ## Demo
-
-https://github.com/user-attachments/assets/176b1e38-36ec-4423-b4c7-b48aef6339fb
+https://github.com/user-attachments/assets/577f7f7c-dbd8-480f-94ed-6fba814a2943
 
 
 ## Technologies Used
